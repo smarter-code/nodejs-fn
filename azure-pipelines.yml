@@ -15,7 +15,7 @@ variables:
   functionAppName: 'nodejs-fn'
 
   # Environment name
-  environmentName: ''
+  environmentName: 'nodejs-fn'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
